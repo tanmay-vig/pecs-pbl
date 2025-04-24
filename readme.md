@@ -18,7 +18,7 @@ This project implements Bayesian Optimization using the Branin function as a ben
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/tanmay-vig/pecs-pbl
     ```
 2. Install the required dependencies:
 
